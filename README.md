@@ -30,14 +30,18 @@
 
 <hr>
 
-<h3>Sobre mim</h3>
+<h3>About Me</h3>
 
-👋 Sou estudante de programação de 18 anos com uma paixão por tecnologia. Atualmente, busco oportunidades na área de **desenvolvimento de software**.
+I am an 18-year-old programming student with a strong passion for technology and software development. I am currently seeking opportunities that allow me to apply and expand my knowledge in the field.
 
-🖥️ Tenho habilidades em **Python, Java, SQL, HTML, CSS, JavaScript e Node.js**, além de uma formação em **Análise e Desenvolvimento de Sistemas** pela **FIAP**, prevista para dezembro de 2025;
+Professional Experience
+I am currently a Full Stack Development Intern at Divulgador Inteligente, a SaaS affiliate marketing platform, where I work with technologies such as Node.js, React.js, and Next.js. My responsibilities include component creation, feature implementation, and product maintenance.
 
-🏢 Desde janeiro de 2021, trabalho como auxiliar administrativo em um escritório de contabilidade, onde aprendi a importância da organização e eficiência.
+Technical Skills
+I have experience in Python, Java, JavaScript, HTML, CSS, and Node.js. In addition, I am studying Systems Analysis and Development at FIAP, with an expected graduation in December 2025.
 
-🌍 Possuo habilidades para **conversar**, ler e escrever em inglês, adquiridas após me formar em **"Inglês Avançado"** em Skill Idiomas.
+Advanced English
+I completed the Advanced English course at Skill Idiomas, enabling me to communicate, read, and write in English with ease.
 
-🎓 Concluí meu curso técnico em **Administração** integrado ao Ensino Médio na ETEC Jorge Street em dezembro de 2023;
+Educational Background
+I am currently pursuing a degree in Systems Analysis and Development at FIAP. I also completed a Technical Administration course at ETEC Jorge Street in December 2023.
