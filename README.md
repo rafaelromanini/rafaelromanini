@@ -36,4 +36,4 @@ SBCD is a nonprofit Social Health Organization (OSS) focused on delivering human
 
 Previously, I worked as a Full Stack Development Intern at Divulgador Inteligente, a SaaS affiliate marketing platform, developing features and maintaining products with Node.js, React.js, and Next.js. These experiences strengthened my end-to-end understanding of building, shipping, and evolving software in multidisciplinary teams.
 
-I’m currently pursuing a degree in Systems Analysis and Development at FIAP, with expected graduation in December 2025, and I have advanced English (Skill Idiomas). I also completed a Technical Administration course at ETEC Jorge Street. My goal is to keep growing as a developer, learn continuously, and contribute to projects that create meaningful impact.
+I’m currently pursuing a degree in Systems Analysis and Development at FIAP, with expected graduation in December 2025, and I have advanced English (speaking and writing). I also completed a Technical Administration course at ETEC Jorge Street. My goal is to keep growing as a developer, learn continuously, and contribute to projects that create meaningful impact.
