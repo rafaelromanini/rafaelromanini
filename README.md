@@ -1,11 +1,25 @@
-[![card](https://github-readme-stats.vercel.app/api?username=rafaelromanini&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-[![rafaelromanini](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelromanini&hide=html&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <h1>Rafael Romanini</h1>
+  <p><em>Junior Software Developer · Java & Spring · Full Stack · DevOps</em></p>
+</div>
 
 <hr>
 
-<h3>Minhas Skills</h3>
+<h3>🚀 About Me</h3>
 
-**Aplicações e dados**
+I'm a 20-year-old software developer passionate about technology, innovation, and continuous learning.
+
+Currently working as a **Junior Software Developer** at **Sociedade Brasileira Caminho de Damasco (SBCD)** — a nonprofit Social Health Organization (OSS) that manages public health services in partnership with Brazil's SUS. There, I build and maintain scalable systems using Java, Spring, Node.js, React, and DevOps practices that support real-world healthcare operations.
+
+Previously, I worked as a **Full Stack Development Intern** at **Divulgador Inteligente**, a SaaS affiliate marketing platform, where I developed and maintained features using Node.js, React.js, and Next.js — strengthening my end-to-end understanding of building and shipping software in multidisciplinary teams.
+
+I hold a degree in **Systems Analysis and Development from FIAP** (December 2025) and a **Technical Administration certificate from ETEC Jorge Street**. I'm currently pursuing a **Postgraduate degree in Java Architecture and Development at FIAP**. I have **advanced English** proficiency and my goal is to keep growing as a developer, learn continuously, and contribute to projects that create meaningful impact.
+
+<hr>
+
+<h3>🛠️ Skills</h3>
+
+**Applications & Data**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -21,19 +35,13 @@
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**Ferramentas de desenvolvimento**
+**Development Tools**
 
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 <hr>
 
-<h3>About Me</h3>
+<h3>📊 GitHub Stats</h3>
 
-I’m an 19-year-old software developer passionate about technology, innovation, and continuous learning. I recently joined Sociedade Brasileira Caminho de Damasco (SBCD) as a Junior Software Developer, where I work with Java, Spring, Node.js, React and DevOps practices to build and maintain scalable systems that support real-world healthcare operations.
-
-SBCD is a nonprofit Social Health Organization (OSS) focused on delivering human-centered care and managing public health services in partnership with Brazil’s SUS. The mission emphasizes quality, operational excellence, and positive impact for the communities served.
-
-Previously, I worked as a Full Stack Development Intern at Divulgador Inteligente, a SaaS affiliate marketing platform, developing features and maintaining products with Node.js, React.js, and Next.js. These experiences strengthened my end-to-end understanding of building, shipping, and evolving software in multidisciplinary teams.
-
-I’m currently pursuing a degree in Systems Analysis and Development at FIAP, with expected graduation in December 2025, and I have advanced English (speaking and writing). I also completed a Technical Administration course at ETEC Jorge Street. My goal is to keep growing as a developer, learn continuously, and contribute to projects that create meaningful impact.
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rafaelromanini)](https://git.io/streak-stats)
