@@ -45,3 +45,16 @@ I hold a degree in **Systems Analysis and Development from FIAP** (December 2025
 <h3>📊 GitHub Stats</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rafaelromanini)](https://git.io/streak-stats)
+
+<hr>
+
+### Connect with Me
+
+<p align="left">
+  <a href="mailto:rafaromaninideoliveira@gmail.com" target="_blank" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:rafaromaninideoliveira@gmail.com" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/rafaelromanini/" target="_blank" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelromanini" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/rafaelromanini_/?next=%2Favaferferii%2Ffeed%2F&locale=en_US%2Cen_US" target="_blank" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaelromanini_/" alt="Instagram"/></a>
+</p>
